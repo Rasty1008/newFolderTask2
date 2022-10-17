@@ -1,0 +1,15 @@
+E:\newFolderTask2\bin\Debug\net6.0\newFolderTask2.exe
+E:\newFolderTask2\bin\Debug\net6.0\newFolderTask2.deps.json
+E:\newFolderTask2\bin\Debug\net6.0\newFolderTask2.runtimeconfig.json
+E:\newFolderTask2\bin\Debug\net6.0\newFolderTask2.dll
+E:\newFolderTask2\bin\Debug\net6.0\newFolderTask2.pdb
+E:\newFolderTask2\obj\Debug\net6.0\newFolderTask2.csproj.AssemblyReference.cache
+E:\newFolderTask2\obj\Debug\net6.0\newFolderTask2.GeneratedMSBuildEditorConfig.editorconfig
+E:\newFolderTask2\obj\Debug\net6.0\newFolderTask2.AssemblyInfoInputs.cache
+E:\newFolderTask2\obj\Debug\net6.0\newFolderTask2.AssemblyInfo.cs
+E:\newFolderTask2\obj\Debug\net6.0\newFolderTask2.csproj.CoreCompileInputs.cache
+E:\newFolderTask2\obj\Debug\net6.0\newFolderTask2.dll
+E:\newFolderTask2\obj\Debug\net6.0\refint\newFolderTask2.dll
+E:\newFolderTask2\obj\Debug\net6.0\newFolderTask2.pdb
+E:\newFolderTask2\obj\Debug\net6.0\newFolderTask2.genruntimeconfig.cache
+E:\newFolderTask2\obj\Debug\net6.0\ref\newFolderTask2.dll
